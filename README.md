@@ -2,7 +2,7 @@
 
 -----
 
-* designed controller board, motor driver board and power supply circuits
+* designed controller board, motor driver board and power supply circuits
 
 * used SHT10 digital humidity sensor for temperature and humidity sampling, L298N for motor driving
 
